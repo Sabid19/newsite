@@ -2,20 +2,19 @@ name: John Doe
 bio: 'A Man who travels the world eating noodles'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
-# your url: http://USERNAME.github.io/
+url: http://sabid19.github.io/newsite
 permalink: /:title/
 
 analytics: 'UA-MYANALYTICS'
 disqus: mydisqus
-facebook: myfacebook
+facebook: http://facebook.com/sabidbd
 twitter: mytwitter
 instagram: myinstagram
 linkedin: mylinkedin
 youtube: myyoutube
 spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+github: http://github.com/sabid19
+email: sabidmail@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
