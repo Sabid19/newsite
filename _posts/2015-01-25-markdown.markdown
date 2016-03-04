@@ -1,22 +1,15 @@
 ---
-title: "Markdown!"
+title: "Hello World!"
 layout: post
-date: 2015-10-19 14:40
+date: 2016-03-04 14:40
 tag: markdown
 #star: true
 ---
 
 ## Summary:
 
-You can pick as item to sse how to apply in markdo
+hello world
 
-## Gist
-
-You can add Gists from github.
-
-{% highlight raw %}
-{ % gist sergiokopplin/f393ac99fdb2d123e9f6 % }
-{% endhighlight %}
 
 {% gist sergiokopplin/f393ac99fdb2d123e9f6 %}
 
